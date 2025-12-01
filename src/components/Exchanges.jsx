@@ -5,7 +5,7 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Nubdog",
-    link: "https://dexscreener.com/solana/8j5r6kteet9cm6wamq2mwb2sneu97cz1jtksdg76moon",
+    link: "https://dexscreener.com/",
   },
 ];
 
