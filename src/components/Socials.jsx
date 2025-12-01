@@ -1,14 +1,8 @@
-import React from "react";
 import LinkCardCircle from "../partials/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://t.me/",
-    title: "telegram",
-    icon: "Telegram",
-  },
-  {
-    link: "https://x.com",
+    link: "https://x.com/i/communities/1995274467883499853",
     title: "x",
     icon: "X",
   },
