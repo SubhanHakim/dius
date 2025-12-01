@@ -3,12 +3,12 @@ import LinkCardCircle from "../partials/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://t.me/duis_solana",
+    link: "https://t.me/",
     title: "telegram",
     icon: "Telegram",
   },
   {
-    link: "https://x.com/duisonsolana",
+    link: "https://x.com",
     title: "x",
     icon: "X",
   },
