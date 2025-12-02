@@ -63,7 +63,7 @@ const Nav = () => {
         {/* Buy Button */}
         <div className="lg:flex lg:flex-1 lg:justify-end">
           <a
-            href="https://pump.fun/coin/EZeTXmMt59MCHX9rjoC6eWd4CQ8PSWqXKKP5nvpKpump"
+            href="#"
             target="_blank"
             className="transition duration-200 font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium text-duis shadow-2xl bg-black hover:bg-duis hover:text-gray-800 hover:outline-black outline-2 outline-offset-0 text-white"
           >

@@ -2,7 +2,7 @@ import LinkCardCircle from "../partials/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://x.com/i/communities/1995274467883499853",
+    link: "https://x.com/i/",
     title: "x",
     icon: "X",
   },
