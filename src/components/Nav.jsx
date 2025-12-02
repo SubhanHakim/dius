@@ -36,7 +36,7 @@ const Nav = () => {
         <div className="flex lg:flex-1">
           <a href="#" className="-m-1.5 p-1.5">
             <img
-              src="/logo_brand.png"
+              src="/logo-coin.png"
               width={500}
               height={500}
               className={`transition-all duration-300 ${
@@ -63,7 +63,7 @@ const Nav = () => {
         {/* Buy Button */}
         <div className="lg:flex lg:flex-1 lg:justify-end">
           <a
-            href="https://dexscreener.com/solana/coming soon"
+            href="https://pump.fun/coin/EZeTXmMt59MCHX9rjoC6eWd4CQ8PSWqXKKP5nvpKpump"
             target="_blank"
             className="transition duration-200 font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium text-duis shadow-2xl bg-black hover:bg-duis hover:text-gray-800 hover:outline-black outline-2 outline-offset-0 text-white"
           >

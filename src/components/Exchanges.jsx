@@ -4,8 +4,8 @@ import Flag from "../partials/Flag";
 const exchanges = [
   {
     flag: "PumpFun",
-    title: "Nubdog",
-    link: "https://dexscreener.com/",
+    title: "dius",
+    link: "https://pump.fun/coin/EZeTXmMt59MCHX9rjoC6eWd4CQ8PSWqXKKP5nvpKpump",
   },
 ];
 

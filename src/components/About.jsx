@@ -35,7 +35,7 @@ const About = () => {
           <div className="">
             <img
               className="h-full object-cover"
-              src="/about-nubdog1.png"
+              src="/collection/9.png"
               width={700}
               height={700}
               alt="Dui Image"
@@ -61,7 +61,7 @@ const About = () => {
           <p className="text-4xl p-10">
             Buy now{" "}
             <span className="text-5xl font-bold underline decoration-duis">
-              Nubdog
+              Dius
             </span>{" "}
             is forever on{" "}
             <span className="text-5xl bg-linear-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text font-bold">

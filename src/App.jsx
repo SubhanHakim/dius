@@ -24,7 +24,7 @@ function App() {
           <span className="flex items-center">
             <span className="h-[3px] flex-1 bg-duis"></span>
             <div>
-              <img src="/collection/10.png" width="300" height="300" alt="dui-5" />
+              <img src="/collection/5.png" width="300" height="300" alt="dui-5" />
             </div>
             <span className="h-[3px] flex-1 bg-duis"></span>
           </span>
@@ -35,7 +35,7 @@ function App() {
           <span className="flex items-center">
             <span className="h-[3px] flex-1 bg-duis"></span>
             <div>
-              <img src="/collection/11.png" width="300" height="300" alt="dui-7" />
+              <img src="/collection/7.png" width="300" height="300" alt="dui-7" />
             </div>
             <span className="h-[3px] flex-1 bg-duis"></span>
           </span>
@@ -44,8 +44,8 @@ function App() {
         <HowToBuy />
         <div className="text-center">
           <div className="flex justify-center">
-            <img className="hidden md:block" src="/collection/12.png" width="300" height="300" alt="dui-6" />
-            <img src="/collection/13.png" width="300" height="300" alt="dui-8" />
+            <img className="hidden md:block" src="/collection/8.png" width="300" height="300" alt="dui-6" />
+            <img src="/collection/6.png" width="300" height="300" alt="dui-8" />
           </div>
           <div className="mt-5">
             <p className="font-stopbuck text-2xl text-black">Woof! Woof!</p>
